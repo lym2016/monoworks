@@ -1,0 +1,1 @@
+MonoWorks is a full-featured, Open Source 3D Computer Aided Design (CAD) suite that includes object-oriented math and modeling libraries, as well as interactive viewing and modeling applications. Check out the [project homepage](http://monoworksproject.org) for more information.
